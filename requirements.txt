@@ -5,7 +5,7 @@ colorlog==4.7.2
 requests==2.25.1
 shapely==1.7.1
 mercantile==1.1.6
-owslib==0.23.0
+owslib==0.28.1
 validators==0.18.2
 regex==2021.3.17
 beautifulsoup4==4.9.3
