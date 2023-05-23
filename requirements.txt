@@ -2,7 +2,7 @@ jsonschema==3.2.0
 pyyaml>=5.4.1
 transifex-client==0.14.2
 colorlog==4.7.2
-requests==2.25.1
+requests==2.31.0
 shapely==1.7.1
 mercantile==1.1.6
 owslib==0.23.0
